@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ana-luiza-barros-9ba23715a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+[![AnaLuizaBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLuizaBarros)](https://github.com/AnaLuizaBarros/github-readme-stats)
