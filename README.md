@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/ana-luiza-barros-9ba23715a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+# My status: 
 <div>
 <a href="https://github.com/AnaLuizaBarros">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuizaBarros&layout=compact&langs_count=7&theme=dracula"/>
