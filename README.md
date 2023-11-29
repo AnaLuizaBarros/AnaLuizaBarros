@@ -1,13 +1,15 @@
-# 👋 Hello, Welcome! 
+## 👋 Hello, Welcome! 
 <p>
   My name is Ana Luiza. I'm a Front end developer looking to learn more about user experience and loves a cup of coffee ☕
 </p>
 
-
-# I currently work at TOTVS, specifically for Electronic Signature.
+<p>
+  I currently work at TOTVS, specifically for Electronic Signature.
+</p>
+# 
 
 # My Skills:
-
+<p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -25,7 +27,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-
+</p>
 
 ## Contacts:
 
