@@ -6,7 +6,6 @@
 <p>
   I currently work at TOTVS, specifically for Electronic Signature.
 </p>
-# 
 
 # My Skills:
 <p>
@@ -29,7 +28,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 </p>
 
-## Contacts:
+# Contacts:
 
 <div>
 <a href = "mailto:analuizagbarros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
