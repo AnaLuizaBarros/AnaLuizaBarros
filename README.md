@@ -1,5 +1,8 @@
 # 👋 Hello, Welcome! 
-## My name is Ana Luiza. I'm a Front end developer looking to learn more about user experience and loves a cup of coffee ☕ 
+<p>
+  My name is Ana Luiza. I'm a Front end developer looking to learn more about user experience and loves a cup of coffee ☕
+</p>
+
 
 # I currently work at TOTVS, specifically for Electronic Signature.
 
