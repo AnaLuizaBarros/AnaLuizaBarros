@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I currently work at TOTVS, specifically for Electronic Signature.
+  I currently work at BS2 Bank, specifically for Easypay.
 </p>
 
 ## My Skills:
