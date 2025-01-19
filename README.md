@@ -3,9 +3,6 @@
   My name is Ana Luiza. I'm a Front end developer looking to learn more about user experience and loves a cup of coffee ☕
 </p>
 
-<p>
-  I currently work at BS2 Bank, specifically for Easypay.
-</p>
 
 ## My Skills:
 <p>
